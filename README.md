@@ -1,6 +1,6 @@
 # ACM Club at Manhattan University
 <div align="center">
-  <img src="attributes/IMG_6405.jpg" alt="Image" />
+  <img src="./IMG_6405.jpg" alt="Image" />
 </div>
 
 ---
