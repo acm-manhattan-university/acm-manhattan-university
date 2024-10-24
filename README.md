@@ -1,4 +1,10 @@
 # ACM Club at Manhattan University
+<div align="center">
+  <img src="attributes/IMG_6405.jpg" alt="Image" />
+</div>
+
+---
+
 
 Welcome to the ACM Club at Manhattan University! We are a community of students passionate about computing, technology, and innovation. Our goal is to foster a collaborative environment where members can learn, share knowledge, and develop their skills.
 
